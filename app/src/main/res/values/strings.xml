@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">task204</string>
+    <string name="play">PLAY</string>
+    <string name="error_Message">Ocurrió un error al intentar reproducir el archivo</string>
+</resources>
